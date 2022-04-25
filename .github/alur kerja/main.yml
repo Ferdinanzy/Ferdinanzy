@@ -1,0 +1,40 @@
+<html>
+
+<head>
+    <link href="stylel.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="header">
+            <img src="win.jpg" width="900" height="240">
+        </div>
+        <div class="menu">
+            <a href="latihan1.html">Home</a>
+            <a href="coba.html">Istilah WEB</a>
+            <a href="biodata.html">Biodata</a>
+            <a href="kalkulator sederhana ferdinan.html">Kalkulator</a>
+            <a href="menghitungBD.HTML">Bangun Datar</a>
+          </div>
+        <div class="content">
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec rhoncus nibh sit amet mauris semper tempor. Morbi vehicula neque dapibus interdum fringilla. Etiam ultrices justo a maximus lacinia. Pellentesque pulvinar purus vitae neque iaculis,
+                id maximus libero iaculis. Etiam commodo ultrices eros, vel rutrum elit dapibus in. Morbi blandit ex non nulla venenatis, et luctus dolor gravida. Maecenas nisi mi, congue at diam ac, eleifend sodales mi. Interdum et malesuada fames ac
+                ante ipsum primis in faucibus. Sed condimentum convallis est, sed tristique erat fermentum ut. Proin volutpat fringilla tristique. Nullam molestie pharetra nisl, quis mattis eros tempus vitae. Donec vestibulum, odio id cursus sodales,
+                neque justo iaculis ex, ac dignissim ipsum ex non libero. Praesent vulputate ullamcorper quam, vel tincidunt odio viverra at. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam eget risus
+                leo.
+            </p>
+            <p>Sed nec mattis enim. In sollicitudin eu augue id tincidunt. Vivamus finibus, mi ac mollis accumsan, risus velit rhoncus elit, sed laoreet metus metus quis eros. Aenean in eros felis. Aliquam tincidunt porttitor eros, vitae aliquam sapien interdum
+                eu. Phasellus arcu diam, dignissim nec ultricies in, finibus quis ipsum. Vestibulum sollicitudin, libero vitae mattis viverra, est tortor bibendum quam, eu consequat lorem ex vitae justo. Phasellus nisl est, posuere eu mauris et, dictum
+                aliquam augue. Morbi a ligula eu mi scelerisque commodo. Suspendisse vulputate, ligula eu scelerisque rhoncus, mauris odio imperdiet ipsum, in imperdiet tortor ex a odio. Duis id mi malesuada, laoreet nisi et, viverra lectus. Integer vitae
+                odio volutpat, tincidunt elit non, aliquam dui.</p>
+            <p>Morbi tristique, augue vitae venenatis congue, justo mauris molestie velit, vitae consequat sem ipsum eget nibh. Vestibulum rhoncus risus at augue pellentesque tempus. In viverra, massa et laoreet blandit, mauris velit euismod neque, ut mollis
+                leo odio non elit. Nulla facilisi. Cras id ex pellentesque lacus ullamcorper elementum. Sed eu tellus purus. Maecenas erat est, mattis vitae auctor sed, fermentum quis diam. Nam ac mauris vel neque faucibus volutpat sit amet eu arcu.</p>
+        </div>
+        <div class="footer">
+            <!--masukan code footer-->
+            &copy Teknik Informatika 2022
+        </div>
+    </div>
+</body>
+
+</html>
